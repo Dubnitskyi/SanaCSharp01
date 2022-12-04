@@ -1,0 +1,15 @@
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\bin\Debug\net6.0\LinearExpressions1.exe
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\bin\Debug\net6.0\LinearExpressions1.deps.json
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\bin\Debug\net6.0\LinearExpressions1.runtimeconfig.json
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\bin\Debug\net6.0\LinearExpressions1.dll
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\bin\Debug\net6.0\LinearExpressions1.pdb
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.csproj.AssemblyReference.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.AssemblyInfoInputs.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.AssemblyInfo.cs
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.csproj.CoreCompileInputs.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.dll
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\refint\LinearExpressions1.dll
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.pdb
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\LinearExpressions1.genruntimeconfig.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp01\SanaCShapr01\LinearExpressions1\obj\Debug\net6.0\ref\LinearExpressions1.dll
